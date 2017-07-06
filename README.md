@@ -24,7 +24,7 @@ Si piensas que cualquiera de estos caminos puede ser mejorado, porfavor abre un 
 
 - [X] Agregar el intro
 - [X] Agregar el camino para Digital Marketer
-- [ ] Agregar el camino para Growth Hacker
+- [X] Agregar el camino para Growth Hacker
 - [ ] Agregar recursos relevantes para cada uno de ellos
 
 ## 👬 Contribución
