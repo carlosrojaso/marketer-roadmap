@@ -6,15 +6,15 @@ Si piensas que estos caminos pueden ser mejorado de cualquier forma, porfavor av
 
 ## 🚀 Introducción
 
-![](https://firebasestorage.googleapis.com/v0/b/modular-source-808.appspot.com/o/images%2FThe%20Beginning.png?alt=media&token=53d8b729-a84c-4b0a-8d05-51d26c2701d4)
+![](https://github.com/carlosrojaso/marketer-roadmap/blob/master/images/The%20Beginning.png?raw=true)
 
 ## 🎨 Camino del Digital Marketer
 
-![](https://firebasestorage.googleapis.com/v0/b/modular-source-808.appspot.com/o/images%2FDigital%20Marketer.png?alt=media&token=edbc2b8e-060a-4dc0-9782-4b556f9cf5ff)
+![](https://github.com/carlosrojaso/marketer-roadmap/blob/master/images/Digital%20Marketer.png?raw=true)
 
 ## 👽 Camino del Growth Hacker
 
-![](https://firebasestorage.googleapis.com/v0/b/modular-source-808.appspot.com/o/images%2FGrowth%20Hacker.png?alt=media&token=1181eefb-9045-4319-be4f-88515b8a467f)
+![](https://github.com/carlosrojaso/marketer-roadmap/blob/master/images/Growth%20Hacker.png?raw=true)
 
 ## 🚦 Resumiendo
 
